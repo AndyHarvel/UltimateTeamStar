@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name" >Ultimate Team Star</string>
+    <string name="Logo">Logo</string>
+    <string name="quit">UTS</string>
+    <string name="really_quit">Voulez-vous réellement quitter UTS ?</string>
+    <string name="yes">Oui</string>
+    <string name="no">Non</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="idlabel">"Id: "</string>
+    <string name="nomlabel">"Nom: "</string>
+    <string name="descriptionlabel">"Equipe: "</string>
+</resources>
